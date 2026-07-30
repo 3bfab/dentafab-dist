@@ -1,0 +1,10 @@
+{
+  "version": "0.4.0",
+  "notes": "Otomatik güncelleme altyapısı testi. Bu geçici bir değerdir; gerçek sürümde CI (release.yml) otomatik günceller.",
+  "pubDate": "2026-07-31",
+  "platforms": {
+    "linux":   { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.0/DentaFab-Slicer-0.4.0-linux-amd64.deb", "sha256": "" },
+    "windows": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.0/DentaFab-Slicer-0.4.0-windows-amd64-setup.exe", "sha256": "" },
+    "macos":   { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.0/DentaFab-Slicer-0.4.0-macos-arm64.dmg", "sha256": "" }
+  }
+}
