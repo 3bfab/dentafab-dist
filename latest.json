@@ -1,10 +1,10 @@
 {
-  "version": "0.4.10",
-  "notes": "DentaFab Slicer 0.4.10",
-  "pubDate": "2026-08-10",
+  "version": "0.4.11",
+  "notes": "DentaFab Slicer 0.4.11",
+  "pubDate": "2026-08-11",
   "platforms": {
-    "linux": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.10/DentaFab-Slicer-0.4.10-linux-amd64.deb", "sha256": "e2234bad419cbd6564d7606ab5ecfb7a67251d55b13862a884780ae154de81df" },
-    "windows": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.10/DentaFab-Slicer-0.4.10-windows-amd64-setup.exe", "sha256": "8d3b66322b136ce8a3317453a7d556c9255296ebf99cebb4c4f7b222961675b2" },
-    "macos": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.10/DentaFab-Slicer-0.4.10-macos-arm64.dmg", "sha256": "4363a024cd1b2a2803a300e013eda669e2b3c5f0746b2ea5e0355fc3a7304207" }
+    "linux": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.11/DentaFab-Slicer-0.4.11-linux-amd64.deb", "sha256": "36202ddcd9e8d430152f7594cf1a7c65114f89f88a2bb1e32a618a0e45d13135" },
+    "windows": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.11/DentaFab-Slicer-0.4.11-windows-amd64-setup.exe", "sha256": "432bec5c3d24c46c9880c954c3ee2251bd833d3b330484a83668212571e48d52" },
+    "macos": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.4.11/DentaFab-Slicer-0.4.11-macos-arm64.dmg", "sha256": "378e73d6fd187cce2b1217e87a3091243a0beca48269a8bdbe902cfd863cae8f" }
   }
 }
