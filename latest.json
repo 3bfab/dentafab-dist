@@ -1,8 +1,9 @@
 {
   "version": "0.7.6",
   "notes": "DentaFab Slicer 0.7.6",
-  "pubDate": "2026-11-18",
+  "pubDate": "2026-11-20",
   "platforms": {
-    "windows": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.7.6/DentaFab-Slicer-0.7.6-windows-amd64-setup.exe", "sha256": "0076e8b3a2db0f672fd8209826ac25c6f5b7fa3841de15ec33e796a9d5f0285f" }
+    "windows": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.7.6/DentaFab-Slicer-0.7.6-windows-amd64-setup.exe", "sha256": "0076e8b3a2db0f672fd8209826ac25c6f5b7fa3841de15ec33e796a9d5f0285f" },
+    "macos": { "url": "https://github.com/3bfab/dentafab-dist/releases/download/v0.7.6/DentaFab-Slicer-0.7.6-macos-arm64.dmg", "sha256": "d7728ab3c194e45701ccab1c7e1e3e1720e649d00853cb7f20c5eff813e609f0" }
   }
 }
